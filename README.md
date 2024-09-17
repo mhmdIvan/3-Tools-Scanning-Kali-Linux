@@ -17,8 +17,9 @@ Perbandingan menggunakan 3 tools scanning kali linux
    ![image](https://github.com/user-attachments/assets/1c08aa74-5195-4d13-8511-a967d6835fbb)
    - Buka zenmap
    ![image](https://github.com/user-attachments/assets/cdcf3cba-f644-47aa-a08e-2c1e805cc657)
-   -buka terminal
-   -buka terminal
+   -Masukkan link yang akan anda scan,kemudian klik scan dan akan tampil datanya
+   ![image](https://github.com/user-attachments/assets/165675b1-1a3f-452e-a633-872cb46256ab)
+   - Hasil scan menggunakan zenmap sama saja dengan nmap,tapi proses scan lebih cepat dan tampilan GUI
 
 
 3. Angsry IP Scan

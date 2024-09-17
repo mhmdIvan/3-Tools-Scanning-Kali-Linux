@@ -22,4 +22,10 @@ Perbandingan menggunakan 3 tools scanning kali linux
    - Hasil scan menggunakan zenmap sama saja dengan nmap,tapi proses scan lebih cepat dan tampilan GUI
 
 
-3. Angsry IP Scan
+3. Angry IP Scan
+   - Install Angry IP Scan
+     https://github.com/angryziber/ipscan/releases/download/3.4/ipscan_3.4_amd54.deb
+   - Buka Angry IP Scan
+     ![image](https://github.com/user-attachments/assets/06335dbe-1499-44f1-9625-3c888f7af2ef)
+   - 
+
